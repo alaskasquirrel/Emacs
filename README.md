@@ -135,3 +135,30 @@ BlackGlory：[Emacs 快捷键](https://blackglory.me/notes/emacs) ；[基本操�
 |全选|C-x h|
 |保存文件|C-x C-s|
 |退出Emacs|C-x C-c|
+
+-----
+
+[Xah Emacs Lisp Tutorial](http://xahlee.info/emacs/index.html)
+
+Jamsa：[Programming in Emacs Lisp笔记](https://jamsa.github.io/post/editor/emacs-lisp-intro/) 
+
+叶文彬：[Emacs Lisp 简明教程](http://smacs.github.io/elisp/)，[elisp笔记](http://www.man6.org/blog/Emacs/elisp%E7%AC%94%E8%AE%B0.md). 
+
+Jamsa：[Emacs Lisp 参考手册](https://jamsa.github.io/post/editor/emacs-lisp/) 
+
+EmacsWiki: [EmacsLispManual Chinese Notes](https://www.emacswiki.org/emacs/EmacsLispManual_Chinese_Notes)
+
+garfileo：
+
+- [不知多久能学会 Elisp](https://segmentfault.com/a/1190000039802488)
+- [程序的基本形状](https://segmentfault.com/a/1190000012304002)
+
+南寨小子：[学习Emacs Lisp系列](https://kangxiaoning.github.io/post/2021/02/learn-emacs-lisp-part-1/)
+
+BlackGlory：[Emacs Lisp](https://blackglory.me/notes/emacs-lisp) 
+
+include-yy：[include-yy 攒 emacs](https://www.zhihu.com/column/c_1328282687241908224) 
+
+ManateeLazyCat：[Emacs 插件开发手册](https://manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html) 
+
+[Emacs 常用 debug 手段](https://whatacold.io/zh-cn/blog/2022-07-17-emacs-elisp-debug/) - whatacold 的空间
